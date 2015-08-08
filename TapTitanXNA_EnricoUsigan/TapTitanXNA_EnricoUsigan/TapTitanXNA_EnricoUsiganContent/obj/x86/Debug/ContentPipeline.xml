@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BG\OniBackground.jpg</Source>
+      <Name>BG\OniBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\OniBackground.xnb</Output>
+      <Time>2015-06-27T10:35:50.291583+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SquidOni\SquidOni.png</Source>
+      <Name>SquidOni\SquidOni</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\SquidOni\SquidOni.xnb</Output>
+      <Time>2015-06-27T10:36:01.098583+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Squato\Squato.png</Source>
+      <Name>Squato\Squato</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\Squato.xnb</Output>
+      <Time>2015-07-04T10:27:53.1516307+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Squato\squato_walk1.png</Source>
+      <Name>Squato\squato_walk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk1.xnb</Output>
+      <Time>2015-07-11T08:12:55.9855892+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Squato\squato_walk2.png</Source>
+      <Name>Squato\squato_walk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk2.xnb</Output>
+      <Time>2015-07-11T08:25:25.5734012+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Squato\squato_walk3.png</Source>
+      <Name>Squato\squato_walk3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk3.xnb</Output>
+      <Time>2015-07-11T08:25:29.2934012+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Squato\squato_walk4.png</Source>
+      <Name>Squato\squato_walk4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk4.xnb</Output>
+      <Time>2015-07-11T08:25:32.6934012+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Squato\Squato_Idle.png</Source>
+      <Name>Squato\Squato_Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\Squato_Idle.xnb</Output>
+      <Time>2015-07-11T08:46:16.2093961+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-07-25T09:51:55.6790491+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\AttackButton.png</Source>
+      <Name>Button\AttackButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Button\AttackButton.xnb</Output>
+      <Time>2015-07-18T09:16:57.681409+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\aqwbuttonplay.png</Source>
+      <Name>Button\aqwbuttonplay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Button\aqwbuttonplay.xnb</Output>
+      <Time>2015-07-18T10:05:28.8452447+08:00</Time>
+    </Item>
+    <Item>
+      <Source>BG\Oni2Background.png</Source>
+      <Name>BG\Oni2Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\Oni2Background.xnb</Output>
+      <Time>2015-07-25T08:47:42.7744866+08:00</Time>
+    </Item>
+    <Item>
+      <Source>BG\Oni3Background.png</Source>
+      <Name>BG\Oni3Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\Oni3Background.xnb</Output>
+      <Time>2015-07-25T08:55:41.2104242+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Squato\squato_idle2.png</Source>
+      <Name>Squato\squato_idle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_idle2.xnb</Output>
+      <Time>2015-07-25T09:21:58.2210248+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsiganContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsiganContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-23T11:53:57.1558968+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
