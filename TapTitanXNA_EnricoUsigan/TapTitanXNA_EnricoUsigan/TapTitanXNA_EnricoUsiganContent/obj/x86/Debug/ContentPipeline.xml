@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\OniBackground.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\OniBackground.xnb</Output>
       <Time>2015-06-27T10:35:50.291583+08:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\SquidOni\SquidOni.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\SquidOni\SquidOni.xnb</Output>
       <Time>2015-06-27T10:36:01.098583+08:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\Squato.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\Squato.xnb</Output>
       <Time>2015-07-04T10:27:53.1516307+08:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk1.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk1.xnb</Output>
       <Time>2015-07-11T08:12:55.9855892+08:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk2.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk2.xnb</Output>
       <Time>2015-07-11T08:25:25.5734012+08:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk3.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk3.xnb</Output>
       <Time>2015-07-11T08:25:29.2934012+08:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk4.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk4.xnb</Output>
       <Time>2015-07-11T08:25:32.6934012+08:00</Time>
     </Item>
     <Item>
@@ -70,17 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\Squato_Idle.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\Squato_Idle.xnb</Output>
       <Time>2015-07-11T08:46:16.2093961+08:00</Time>
-    </Item>
-    <Item>
-      <Source>SpriteFont1.spritefont</Source>
-      <Name>SpriteFont1</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
-      <Time>2015-07-25T09:51:55.6790491+08:00</Time>
     </Item>
     <Item>
       <Source>Button\AttackButton.png</Source>
@@ -88,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Button\AttackButton.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Button\AttackButton.xnb</Output>
       <Time>2015-07-18T09:16:57.681409+08:00</Time>
     </Item>
     <Item>
@@ -97,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Button\aqwbuttonplay.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Button\aqwbuttonplay.xnb</Output>
       <Time>2015-07-18T10:05:28.8452447+08:00</Time>
     </Item>
     <Item>
@@ -106,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\Oni2Background.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\Oni2Background.xnb</Output>
       <Time>2015-07-25T08:47:42.7744866+08:00</Time>
     </Item>
     <Item>
@@ -115,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\Oni3Background.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\Oni3Background.xnb</Output>
       <Time>2015-07-25T08:55:41.2104242+08:00</Time>
     </Item>
     <Item>
@@ -124,8 +115,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_idle2.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_idle2.xnb</Output>
       <Time>2015-07-25T09:21:58.2210248+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-07-25T09:51:55.6790491+08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -133,10 +133,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsiganContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsiganContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsiganContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsiganContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

@@ -10,13 +10,17 @@ using Microsoft.Xna.Framework.Input;
 namespace TapTitanXNA_EnricoUsigan
 {
     public class Hero
-    {   
+    {
         #region Properties
         Vector2 playerPosition;
+        //Vector2 suppPosition;
+        //Vector2 bossPosition;
         Texture2D player;
+        //Texture2D support;
+        //Texture2D boss;
         ContentManager content;
         Level level;
-        MouseState oldMouseState;
+        //MouseState oldMouseState;
 
         //Animation walk1Animation;
         //Animation walk2Animation;
@@ -25,13 +29,17 @@ namespace TapTitanXNA_EnricoUsigan
 
 
         String Punch = "Idle";
-        Animation attackAnimation;
+        //Animation attackAnimation;
         Animation idleAnimation;
+        //Animation idleSupport;
+        //Animation idleBoss;
         AnimationPlayer spritePlayer;
+        //AnimationPlayer spriteSupport;
+        //AnimationPlayer spriteBoss;
         #endregion
-        
+
         //int oldScrollWheelValue = 0;
-        
+
         public Hero(ContentManager content, Level level)
         {
             this.content = content;
@@ -43,12 +51,22 @@ namespace TapTitanXNA_EnricoUsigan
         {
 
             player = content.Load<Texture2D>("Squato/squato_idle2");
+            /*boss = content.Load<Texture2D>("SquidOni/twig");
+            support = content.Load<Texture2D>("SquidOni/SquidOni");*/
 
-            idleAnimation = new Animation(player, 0.1f, true,1);
+            idleAnimation = new Animation(player, 0.1f, true, 1);
 
-            int positionX = (Level.windowwidth / 2) - (idleAnimation.FrameWidth/ 4);
-            int positionY = (Level.windowheight / 2) - (idleAnimation.FrameWidth / 4);
-            playerPosition = new Vector2(500,300);
+            int positionX = (Level.windowwidth / 2) - (idleAnimation.FrameWidth / 2);
+            int positionY = (Level.windowheight / 2) - (idleAnimation.FrameWidth / 2);
+            playerPosition = new Vector2(500, 300);
+            /*
+            int supposX = (Level.windowwidth / 2) - (idleAnimation.FrameWidth / 2);
+            int supposY = (Level.windowheight / 2) - (idleAnimation.FrameWidth / 2);
+            suppPosition = new Vector2(600, 1000);
+
+            int bossX = (Level.windowwidth / 2) - (idleAnimation.FrameWidth /  2);
+            int bossY = (Level.windowheight / 2) - (idleAnimation.FrameWidth / 2);
+            bossPosition = new Vector2(200, 300);*/
 
             spritePlayer.PlayAnimation(idleAnimation);
         }
@@ -56,7 +74,7 @@ namespace TapTitanXNA_EnricoUsigan
         public void Update(GameTime gameTime)
         {
 
-           
+
 
             if (level.mouseState.LeftButton == ButtonState.Pressed)
             {
@@ -65,7 +83,7 @@ namespace TapTitanXNA_EnricoUsigan
             }
             if (level.mouseState.LeftButton == ButtonState.Released)
             {
-               // spritePlayer.PlayAnimation(idleAnimation);
+                // spritePlayer.PlayAnimation(idleAnimation);
             }
 
             if (Punch == "Idle")
@@ -83,48 +101,6 @@ namespace TapTitanXNA_EnricoUsigan
 
             }
 
-            //var mouseState = Mouse.GetState();
-
-            //spritePlayer.PlayAnimation(attackAnimation);
-
-            //if (mouseState.LeftButton == ButtonState.Pressed ;
-
-
-            //spritePlayer.PlayAnimation(idleAnimation);
-
-            //    if (mouseState.LeftButton == ButtonState.Pressed &&
-            //    oldMouseState.LeftButton == ButtonState.Released)
-            //{
-            //    player = content.Load<Texture2D>("Squato/squato_walk3");
-            //    walk3Animation = new Animation(player, 0.1f, true, 2);
-            //    spritePlayer.PlayAnimation(walk3Animation);
-            //    playerPosition.X-= 5;
-            //}
-
-            //if (mouseState.RightButton == ButtonState.Pressed &&
-            //    oldMouseState.RightButton == ButtonState.Released)
-            //{
-            //    player = content.Load<Texture2D>("Squato/squato_walk2");
-            //    walk2Animation = new Animation(player, 0.1f, true, 2);
-            //    spritePlayer.PlayAnimation(walk2Animation);
-            //    playerPosition.X+= 5;
-            //}
-            //if (mouseState.ScrollWheelValue > oldScrollWheelValue)
-            //{
-            //    player = content.Load<Texture2D>("Squato/squato_walk4");
-            //    walk4Animation = new Animation(player, 0.1f, true, 2);
-            //    spritePlayer.PlayAnimation(walk4Animation);
-            //    playerPosition.Y-= 10;
-            //    oldScrollWheelValue = mouseState.ScrollWheelValue;
-            //}
-            //if (mouseState.ScrollWheelValue < oldScrollWheelValue)
-            //{
-            //    player = content.Load<Texture2D>("Squato/squato_walk1");
-            //    walk1Animation = new Animation(player, 0.1f, true, 2);
-            //    spritePlayer.PlayAnimation(walk1Animation);
-            //    playerPosition.Y += 10;
-            //    oldScrollWheelValue = mouseState.ScrollWheelValue;
-            //}
 
         }
 
@@ -132,7 +108,10 @@ namespace TapTitanXNA_EnricoUsigan
         {
             // spriteBatch.Draw(player,playerPosition,Color.White, 0.0f, Vector2.Zero,1.0f,SpriteEffects.None, 0.0f);
             //spriteBatch.Draw(player, playerPosition, Color.White);
+
             spritePlayer.Draw(gameTime, spriteBatch, playerPosition, SpriteEffects.None);
+            //spriteSupport.Draw(gameTime, spriteBatch, suppPosition, SpriteEffects.None);
+            //spriteBoss.Draw(gameTime, spriteBatch, bossPosition, SpriteEffects.None);
 
         }
 

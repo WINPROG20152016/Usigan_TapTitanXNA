@@ -18,3 +18,23 @@ C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan
 C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\Oni3Background.xnb
 C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_idle2.xnb
 C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\obj\x86\Debug\TapTitanXNA_EnricoUsigan.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\OniBackground.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\SquidOni\SquidOni.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\Squato.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk1.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk2.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk3.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_walk4.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\Squato_Idle.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Button\AttackButton.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Button\aqwbuttonplay.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\Oni2Background.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\BG\Oni3Background.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\Squato\squato_idle2.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\TapTitanXNA_EnricoUsigan.exe
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\bin\x86\Debug\TapTitanXNA_EnricoUsigan.pdb
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\obj\x86\Debug\TapTitanXNA_EnricoUsigan.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\obj\x86\Debug\TapTitanXNA_EnricoUsigan.exe
+C:\Users\istudent\Documents\Usigan_TapTitanXNA\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\TapTitanXNA_EnricoUsigan\obj\x86\Debug\TapTitanXNA_EnricoUsigan.pdb

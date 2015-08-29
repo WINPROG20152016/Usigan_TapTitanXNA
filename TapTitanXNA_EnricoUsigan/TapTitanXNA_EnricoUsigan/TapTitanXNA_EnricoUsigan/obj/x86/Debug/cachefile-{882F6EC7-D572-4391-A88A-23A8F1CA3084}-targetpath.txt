@@ -6,9 +6,9 @@ Content\Squato\squato_walk2.xnb
 Content\Squato\squato_walk3.xnb
 Content\Squato\squato_walk4.xnb
 Content\Squato\Squato_Idle.xnb
-Content\SpriteFont1.xnb
 Content\Button\AttackButton.xnb
 Content\Button\aqwbuttonplay.xnb
 Content\BG\Oni2Background.xnb
 Content\BG\Oni3Background.xnb
 Content\Squato\squato_idle2.xnb
+Content\SpriteFont1.xnb

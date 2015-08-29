@@ -27,9 +27,9 @@ namespace TapTitanXNA_EnricoUsigan
         Hero hero;
 
         SpriteFont damageStringFont;
-        int damageNumber = 0;
+        int damageNumber = 1000;
 
-        Button playButton;
+        //Button playButton;
         Button attackButton;
 
         #endregion
@@ -45,7 +45,7 @@ namespace TapTitanXNA_EnricoUsigan
             background = content.Load<Texture2D>("BG/Oni3Background");
             damageStringFont = content.Load<SpriteFont>("SpriteFont1");
 
-            playButton = new Button(content, "Button/aqwbuttonplay", new Vector2(500,50));
+            //playButton = new Button(content, "Button/aqwbuttonplay", new Vector2(500,50));
             attackButton = new Button(content,"Button/AttackButton", new Vector2(560,900));
 
             hero.LoadContent();
@@ -66,7 +66,7 @@ namespace TapTitanXNA_EnricoUsigan
             if (attackButton.Update(gameTime, mouseX, mouseY,
                 mpressed, prev_mpressed)) 
             {
-                damageNumber += 15;
+                damageNumber -= 15;
 
             }
         }
@@ -76,9 +76,9 @@ namespace TapTitanXNA_EnricoUsigan
             spriteBatch.Draw(background, new Vector2(90,-100), Color.White);
             hero.Draw(gameTime, spriteBatch);
             spriteBatch.DrawString(damageStringFont,
-               "Damage Applied (Stacking):" + damageNumber, new Vector2(750,150), Color.White);
+               "HP:" + damageNumber, new Vector2(750,150), Color.White);
 
-            playButton.Draw(gameTime, spriteBatch);
+            //playButton.Draw(gameTime, spriteBatch);
             attackButton.Draw(gameTime, spriteBatch);
         }
     }
